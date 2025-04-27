@@ -8,7 +8,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### https://www.youtube.com/watch?v=MNgaYilYu2A
 
 <h2>Environments and Technologies Used</h2>
 
@@ -22,11 +22,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Web Server: A web server, like IIS, Apache, or LiteSpeed, is needed to host the osTicket application.
+- PHP: osTicket requires a specific version of PHP, typically 8.1 or 8.2. Older versions may not be supported.
+- MySQL/MariaDB Database: A database server like MySQL or MariaDB must store osTicket's data. 
+- osTicket Database: A dedicated database within your MySQL/MariaDB server to store specifically osTicket data.
+- MySQL User with Privileges: A MySQL user with full privileges on the database created for osTicket.
 
 <h2>Installation Steps</h2>
 
